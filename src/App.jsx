@@ -66,7 +66,7 @@ function App() {
             element={
               <main style={{ padding: "1rem" }}>
                 {/* <p>There's nothing here!</p> */}
-                <p className="bg-red-500 text-white">Hello Vite + React + Tailwind CSS!</p>
+                {/* <p className="bg-red-500 text-white">Hello Vite + React + Tailwind CSS!</p> */}
               </main>
             }
           />
